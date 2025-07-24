@@ -17,7 +17,7 @@ A Bluetooth-controlled smart car built using Arduino Uno, L293D Motor Driver, an
 
 | Circuit Diagram | Finished Car |
 |-----------------|--------------|
-| ![Circuit](Images/circuit_diagram.jpg) | ![Car](Images/car_model.jpg) |
+| ![Circuit](Images/Circuit.jpg) | ![Car](Images/Car.jpg) |
 
 ---
 
@@ -30,12 +30,6 @@ A Bluetooth-controlled smart car built using Arduino Uno, L293D Motor Driver, an
 - Wheels
 - Wooden Base or Chassis
 - 7.4V LiPo Battery
-
----
-
-## 📄 Documentation
-
-[BT_Car.pdf](BT_Car.pdf)
 
 ---
 
